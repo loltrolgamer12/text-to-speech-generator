@@ -41,3 +41,4 @@ Network: Internet connection required for voice synthesis
 Installation
 Prerequisites
 Ensure Python 3.7+ is installed on your system. You can verify your Python version:
+
