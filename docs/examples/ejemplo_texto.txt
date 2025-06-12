@@ -1,0 +1,55 @@
+# Ejemplo de Texto para Conversión de Audio
+
+Este es un archivo de ejemplo que puedes usar para probar la aplicación de Text-to-Speech Generator.
+
+## Introducción
+
+Bienvenidos a esta demostración del generador de audio profesional. Esta herramienta utiliza voces neurales de Microsoft Edge para crear audio de alta calidad a partir de cualquier texto.
+
+## Características Principales
+
+La aplicación incluye las siguientes funciones:
+
+### Voces Disponibles
+- Dalia Neural de México: ideal para contenido neutro
+- Alvaro Neural de España: voz masculina europea
+- Elvira Neural de España: voz femenina europea
+- Elena Neural de Argentina: acento rioplatense
+- Salome Neural de Colombia: acento colombiano
+
+### Control de Velocidad
+Puedes ajustar la velocidad desde un setenta por ciento hasta un ciento veinte por ciento de la velocidad normal. La configuración recomendada es noventa por ciento para una mejor comprensión.
+
+## Casos de Uso
+
+### Audiolibros
+Convierte novelas, ensayos o cualquier texto literario en audiolibros profesionales. La aplicación maneja automáticamente textos largos dividiéndolos en segmentos manejables.
+
+### Contenido Educativo
+Crea material de estudio auditivo para estudiantes. Los profesores pueden convertir sus apuntes en audio para facilitar el aprendizaje.
+
+### Podcasts y Narraciones
+Genera contenido de audio para podcasts, narraciones comerciales o presentaciones.
+
+## Instrucciones de Uso
+
+1. Carga este archivo usando el botón "Cargar archivo TXT"
+2. Selecciona tu voz preferida
+3. Ajusta la velocidad según tus necesidades
+4. Elige entre generar un solo archivo o múltiples segmentos
+5. Haz clic en "GENERAR AUDIO MP3"
+
+## Consejos para Mejores Resultados
+
+Para obtener la mejor calidad de audio:
+
+- Usa puntuación correcta para pausas naturales
+- Divide párrafos largos con doble salto de línea
+- Evita abreviaciones complejas
+- Incluye acentos y tildes correctamente
+
+## Conclusión
+
+Esta aplicación democratiza la creación de contenido de audio profesional, permitiendo a cualquier persona convertir texto en audio de calidad de estudio sin necesidad de costosos servicios comerciales.
+
+¡Disfruta creando tu contenido de audio!
